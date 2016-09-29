@@ -1,0 +1,18 @@
+package com.java.assignment1;
+
+public class ADD2NUMS {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int a = 100;
+		float b = 11.2f;
+		int c = (int) (a+b);
+		
+		
+		System.out.println (c);
+		
+			
+	}
+
+}
